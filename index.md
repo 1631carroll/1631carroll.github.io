@@ -19,8 +19,8 @@ Highly desirable and quiet neighborhood in Ames.
 * Washer / Dryer 
 * Dishwaser
 * Disposer
-* Ceiling fans in all bathrooms
-* Upstairs 960 square feet, large finished basemsent with room for storage
+* Ceiling fans in all bedrooms
+* Upstairs 960 square feet, large finished basement with room for storage
 * Covered carport
 * Storage shed
 * Large backyard
