@@ -8,6 +8,10 @@ Highly desirable and quiet neighborhood in Ames.
 
 ![](./front.jpg)
 
+### Photos
+
+![](./collage.jpg)
+
 ### Information:
 
 * Three Bedrooms
