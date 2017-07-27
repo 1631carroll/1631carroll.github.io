@@ -8,15 +8,18 @@ Highly desirable and quiet neighborhood in Ames.
 
 ![](./front.jpg)
 
-## Three Bedrooms
+#### [](#header-4) Three Bedrooms
 
+![](./br1.jpg)
+![](./br2.jpg)
+![](./br3.jpg)
 
 
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-#### [](#header-4)Header 4
+#### [](#header-4)Header 2
 
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
