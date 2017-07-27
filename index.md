@@ -24,6 +24,7 @@ Highly desirable and quiet neighborhood in Ames.
 * Covered carport
 * Storage shed
 * Large backyard
+* Clean, fresh paint
 * Rent is $1,250/month
 * Utilities and lawncare are NOT included.
 * NO smoking, No pets
