@@ -27,7 +27,7 @@ Highly desirable and quiet neighborhood in Ames.
 * Rent is $1,250/month
 * Utilities and lawncare are NOT included.
 * NO smoking, No pets
-* Security deposit required - 1 month's rent
+* Security deposit required 
 * Conveniently located close to: Cy-Ride, Mall, Schools, Gas Stations, Groceries, Shopping, Parks, downtown, hospital.
 
 
