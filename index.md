@@ -2,11 +2,15 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+**Very Charming 3 Bedrooms, 2 Bathroom single family house**
 
-[Link to another page](another-page).
+Highly desirable and quiet neighborhood in Ames.
 
-## [](#header-2)Header 2
+![](./front.jpg)
+
+## Three Bedrooms
+
+
 
 > This is a blockquote following a header.
 >
