@@ -34,6 +34,9 @@ Highly desirable and quiet neighborhood in Ames.
 * * *
 
 #### Contact
+
 Email:  [eightpoints.house@gmail.com](mailto:eightpoints.house@gmail.com)
+
 Phone/Text:  515 446 9292
+
 Contact Name:  Adina Howe
