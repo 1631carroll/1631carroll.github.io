@@ -8,34 +8,28 @@ Highly desirable and quiet neighborhood in Ames.
 
 ![](./front.jpg)
 
-#### [](#header-4) Three Bedrooms
+### Information:
 
-![](./br1.jpg)
-![](./br2.jpg)
-![](./br3.jpg)
+* Three Bedrooms
+* Two Bathrooms
+* Washer / Dryer 
+* Dishwaser
+* Disposer
+* Ceiling fans in all bathrooms
+* Upstairs 960 square feet, large finished basemsent with room for storage
+* Covered carport
+* Storage shed
+* Large backyard
+* Rent is $1,250/month
+* Utilities and lawncare are NOT included.
+* NO smoking, No pets
+* Security deposit required - 1 month's rent
+* Conveniently located close to: Cy-Ride, Mall, Schools, Gas Stations, Groceries, Shopping, Parks, downtown, hospital.
 
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-#### [](#header-4)Header 2
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-### There's a horizontal rule below this.
 
 * * *
 
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### Large image
-
-![](https://guides.github.com/activities/hello-world/branching.png)
+#### Contact
+Email:  [eightpoints.house@gmail.com](mailto:eightpoints.house@gmail.com)
+Phone/Text:  515 446 9292
+Contact Name:  Adina Howe
